@@ -1,0 +1,11 @@
+{
+  "hsi_CER": 0.5865758590740829,
+  "hsi_NAP_S": 0.9709285469595168,
+  "hsi_NAP_tau": 2,
+  "pseudo_CER": 0.41248606876993776,
+  "pseudo_NAP_S": 0.9619728707151941,
+  "pseudo_NAP_tau": 2,
+  "balanced_CER": 0.5666175704318822,
+  "balanced_NAP_S": 0.972476199062252,
+  "balanced_NAP_tau": 2
+}

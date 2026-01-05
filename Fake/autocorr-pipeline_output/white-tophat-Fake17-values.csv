@@ -1,0 +1,8 @@
+key,value
+S_A_intensity_slice,0.8709486301015392
+tau_A,2
+S_C_laplacian_slice,0.50826196744254
+tau_C,9
+FINAL_prefer_C,0.50826196744254
+tau_min,2
+tau_max_frac,0.25

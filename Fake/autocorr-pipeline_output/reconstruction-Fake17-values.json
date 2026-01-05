@@ -1,0 +1,9 @@
+{
+  "S_A_intensity_slice": 0.9736030417335081,
+  "tau_A": 2,
+  "S_C_laplacian_slice": 0.4768149560793984,
+  "tau_C": 5,
+  "FINAL_prefer_C": 0.4768149560793984,
+  "tau_min": 2,
+  "tau_max_frac": 0.25
+}

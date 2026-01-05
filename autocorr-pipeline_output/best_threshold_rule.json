@@ -1,0 +1,10 @@
+{
+  "enhancement": "granulometry",
+  "metric": "Lap_spectral_entropy_norm",
+  "rule": "fake if value > threshold",
+  "direction_fake": ">",
+  "threshold": 0.9247910912623469,
+  "youden": 0.6999999999998301,
+  "accuracy": 0.8499999999999576,
+  "notes": "labels: 0=Real, 1=Fake. Rule direction chosen automatically using class means."
+}

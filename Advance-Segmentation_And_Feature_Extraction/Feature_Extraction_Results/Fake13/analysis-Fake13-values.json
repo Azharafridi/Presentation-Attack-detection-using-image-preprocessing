@@ -1,0 +1,11 @@
+{
+  "hough_CER": 0.59039899410715,
+  "hough_NAP_S": 0.9592852506121013,
+  "hough_NAP_tau": 2,
+  "sift_CER": 0.482078090318454,
+  "sift_NAP_S": 0.8899941995818876,
+  "sift_NAP_tau": 2,
+  "harris_CER": 0.581475845664886,
+  "harris_NAP_S": 0.9592852506121013,
+  "harris_NAP_tau": 2
+}
